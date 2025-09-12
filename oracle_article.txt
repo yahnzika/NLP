@@ -1,0 +1,23 @@
+‘We’re all kind of in shock.’ Oracle’s revenue projections leave analysts slack-jawed
+John DiFucci from Guggenheim Securities said he was “blown away.” TD Cowen’s Derrick Wood called it a “momentous quarter.” And Brad Zelnick of Deutsche Bank said, “We’re all kind of in shock, in a very good way.”
+That’s how the analysts opened their comments and questions during Oracle’s quarterly earnings call on Tuesday, as the company’s stock price was in the midst of a 28% after-hours rally. The software vendor had just reported an earnings and revenue miss, but nobody was paying attention to that.
+Wall Street was singularly focused on Oracle’s forward-looking numbers and a massive growth trajectory that the company now sees thanks to its booming cloud infrastructure business and a host of new artificial intelligence deals.
+“There’s no better evidence of a seismic shift happening in computing than these results that you just put up,” Zelnick said on the earnings call.
+Analysts are often effusive in their praise of companies on their earnings calls after results beat expectations or a forecast is particularly impressive. Executives are used to being congratulated on an excellent quarter.
+But the latest Oracle call was different, and investors knew why.
+Based on its post-market move, Oracle’s stock is poised to surge more on Wednesday than it has in any single session since the dot-com boom in 1999. And the shares, trading at $310 in extended trading, are set to zoom past their record close of $256.43, which they hit last month. Oracle’s market cap would jump past $870 billion.
+The excitement is mostly around cloud infrastructure, where Oracle competes with Amazon, Microsoft and Google. Oracle said that revenue this fiscal year in that business will jump 77% to $18 billion from $10 billion in the last year.
+In fiscal 2027, the figure will almost double to $32 billion, before reaching $73 billion, $114 billion and $144 billion in the subsequent three years.
+CEO Safra Catz said in the earnings statement that the company signed four multibillion-dollar contracts with three different customers in the quarter. OpenAI said during the quarter that it agreed to to develop 4.5 gigawatts of U.S. data center capacity with Oracle.
+Oracle’s remaining performance obligations, a measure of contracted revenue that has not yet been recognized, soared to $455 billion, up 359% from a year earlier.
+Wood from TD Cowen said the RPO figure is “just really amazing to see.” He asked Catz for more clarity on how much it was going to cost the company to build out the infrastructure needed to service those customers.
+Catz said that one difference between Oracle and some of its rivals is in the way it deals with the property that houses data centers.
+“I know some of our competitors, they like to own buildings,” she said. “That’s not really our specialty. Our specialty is the unique technology, the unique networking, the storage — just the whole way we put these systems together.”
+Many analysts were so impressed with the guidance that they raised their estimates on the stock. Bank of America even upgraded Oracle to buy afterward and called for more than 50% upside from Tuesday’s close.
+In an interview with CNBC’s “Fast Money” after the report, D.A. Davidson analyst Gil Luria called Oracle’s projected cloud revenue figure “absolutely staggering,” and said it represents a tenfold increase in the next five years.
+But he also had a word of caution. The big hyperscalers like Microsoft and Google, he said, have instituted a strategy of “offloading their capacity to other data center providers.” That’s leading businesses to use Oracle.
+“These are not organic customers to Oracle,” said Luria, who recommends holding the stock. “This is Microsoft, Google and Amazon’s customers that will use Oracle capacity.”
+Heading into Tuesday’s report, Oracle shares were up 46% for the year, while the Nasdaq had gained 13%.
+
+
+
